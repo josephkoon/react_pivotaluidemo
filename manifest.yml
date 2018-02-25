@@ -1,0 +1,5 @@
+---
+applications:
+  - name: pivotal-ui-starter
+    path: public
+    memory: 64MB
